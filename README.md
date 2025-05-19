@@ -1,50 +1,58 @@
-Вот готовый Markdown-код для вашего GitHub-профиля. Просто скопируйте его в файл `README.md` и замените `${placeholders}` на свои данные:
-
 ```markdown
-🚀 **Full-Stack Developer | Digital Alchemist** ⚡  
-`🔥 Transforming ideas into code since ${YEAR}`  
-`🌌 Создаю космос из строчек кода`
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Привет%2C+я+Welesley+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%AD%90;Tech+Alchemist+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 ```typescript
-const welesley = {
-  code: ["Typescript", "Python", "C++", "Solidity"],
-  frameworks: ["React", "Next.js", "Node.js", "FastAPI"],
-  tools: ["Docker", "Kubernetes", "Blockchain", "AI/ML"],
-  architecture: ["microservices", "serverless", "event-driven"],
-  mindset: ["Clean Code Evangelist", "Perpetual Learner", "Open Source Enthusiast"]
+const myStack = {
+  languages: ["TypeScript", "Python", "Go", "Solidity"],
+  frontend: ["React", "Next.js", "Tailwind", "Three.js"],
+  backend: ["Node.js", "FastAPI", "NestJS", "PostgreSQL"],
+  devops: ["Docker", "Kubernetes", "AWS", "Terraform"],
+  blockchain: ["Ethereum", "Hardhat", "Web3.js", "Smart Contracts"],
+  passions: ["AI/ML", "Web3", "Cybersecurity", "GameDev"]
 };
 ```
 
-**🚧 Активные проекты:**  
-- 🔗 [${PROJECT_NAME}](${LINK}) — ${SHORT_DESCRIPTION}  
-- ⚡ [${ANOTHER_PROJECT}](${LINK}) — ${DESCRIPTION}  
+## 🚀 Мои проекты
 
-**📊 Моя код-активность:**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Welesleyofficial7&theme=dark&border_radius=4.6)](https://git.io/streak-stats)  
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Welesleyofficial7&layout=compact&theme=vision-friendly-dark)](https://wakatime.com/@Welesleyofficial7)
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| **[ProjectX]**() | Децентрализованное приложение для NFT-трейдинга | TypeScript, Solidity, Hardhat |
+| **[AI Assistant]**() | Голосовой ассистент с NLP | Python, TensorFlow, Whisper |
+| **[Cloud Dashboard]**() | Панель управления облачными сервисами | React, Go, Kubernetes |
 
-**💡 Моя философия:**  
-> "Код должен быть как поэзия — минималистичным, выразительным и вдохновляющим.  
-> Каждая строчка — шаг к цифровой революции 🌍✨"
+## 📊 Статистика
 
-**📫 Как связаться:**  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/${YOUR_TG})  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/${YOUR_LINKEDIN})  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Welesleyofficial7)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Welesleyofficial7&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welesleyofficial7&layout=compact&theme=vision-friendly-dark&hide_border=true)
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Welesleyofficial7?theme=dark&font=Roboto)
+  
+</div>
 
+## 🛠️ Технологии
+
+<div align="center">
+  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
+  
+</div>
+
+## 💡 Цитата
+
+> "Пиши код так, будто следующий разработчик — психопат с доступом к твоему IP"  
+> — *Народная мудрость разработчиков*
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Welesleyofficial7&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 ```
-
-### Что нужно заменить:
-1. `${YEAR}` — год начала программирования  
-2. `${PROJECT_NAME}`, `${LINK}`, `${SHORT_DESCRIPTION}` — данные о проектах  
-3. `${YOUR_TG}` — ваш Telegram-юзернейм (без `@`)  
-4. `${YOUR_LINKEDIN}` — идентификатор LinkedIn-профиля  
-5. Обновите массивы в блоке `const welesley` под свои навыки.
-
-### Дополнительные улучшения:
-1. Добавьте анимированные GIF-демо проектов  
-2. Вставьте секцию с технологическими иконками через [shields.io](https://shields.io/)  
-3. Подключите кастомную статистику через [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
-4. Добавьте секцию с наградами/достижениями 🏆
-
-После кастомизации профиль будет выглядеть профессионально и привлекать внимание рекрутеров/коллег! 😎
