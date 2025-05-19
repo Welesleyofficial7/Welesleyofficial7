@@ -1,9 +1,7 @@
-```markdown
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Привет%2C+я+Welesley+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%AD%90;Tech+Alchemist+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
-```typescript
 const myStack = {
   languages: ["TypeScript", "Python", "Go", "Solidity"],
   frontend: ["React", "Next.js", "Tailwind", "Three.js"],
